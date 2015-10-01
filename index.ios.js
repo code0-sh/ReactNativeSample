@@ -121,7 +121,7 @@ var styles = StyleSheet.create({
     textAlign: 'center',
     fontWeight: 'bold',
     flex: 1,
-    fontSize: 20,
+    fontSize: 20
   },
   inputcontainer: {
     marginTop: 5,
@@ -135,12 +135,12 @@ var styles = StyleSheet.create({
     backgroundColor: '#48afdb',
     justifyContent: 'center',
     color: '#FFFFFF',
-    borderRadius: 4,
+    borderRadius: 4
   },
   btnText: {
     fontSize: 18,
     color: '#fff',
-    marginTop: 6,
+    marginTop: 6
   },
   input: {
     height: 36,
@@ -160,10 +160,10 @@ var styles = StyleSheet.create({
   },
   separator: {
     height: 1,
-    backgroundColor: '#CCCCCC',
+    backgroundColor: '#CCCCCC'
   },
   todoText: {
-    flex: 1,
+    flex: 1
   }
 });
 
